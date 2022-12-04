@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+ 
+
+}
+
+
+.pdt-1{
+    
+    width: 275px;
+    height: 600px;
+    padding: 5px;
+    margin: 5px;
+
+border: 10px solid;
+display:inline-block;
+
+}
+
+ul{ 
+    border-bottom: 2px solid black;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.ancor-1{
+    
+    background: white;
+    padding: 5px 90px;
+    outline: 2px solid black;
+
+}
+
+.ancor-2{
+display: block;
+padding: 5px 90px;
+outline: 2px solid black;
+margin-top: 10px;
+}
+
+
+.ancor-3{
+display: block;
+padding: 5px;
+padding-left: 70px;
+outline: 2px solid black;
+margin-top: 10px;
+}
+
+
+
+.pdt-h{
+    background: rgb(128, 0, 117);
+    
+}
